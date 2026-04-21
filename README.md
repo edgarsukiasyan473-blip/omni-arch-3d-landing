@@ -1,2 +1,2 @@
-# omni-arch-3d-landing
-Interactive 3D landing page showcasing design-to-code workflow.
+# omni-arch-3d-landing-page
+OmniArch — Interactive 3D Design-to-Code Landing Experience
