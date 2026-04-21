@@ -1,2 +1,2 @@
 # omni-arch-3d-landing-page
-OmniArch — Interactive 3D Design-to-Code Landing Experience
+A high-performance 3D web experience that translates UI/UX design concepts into production-ready code.
