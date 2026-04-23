@@ -1,5 +1,10 @@
 # Omni Arch — Immersive 3D Landing Experience
 
+<p align='center'>
+  <img src='assets/omni arch 1 (1).png' alt='Omni Arch Preview' width='100%'>
+</p>
+
+
 ## Overview
 
 **Omni Arch** is a high-end, single-page 3D landing experience that blends modern UI design with real-time WebGL rendering. Built with **Three.js** and **Tailwind CSS**, this project delivers a visually striking interface centered around a dynamic 3D object, atmospheric particles, and a glassmorphic content layer.
